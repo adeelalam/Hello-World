@@ -7,4 +7,8 @@ My name is Adeel Alam. Currently, I am working as IT Consultant with Framtiden i
 
 Hi agian!
 
-I am here to make new changes again...please dont mind ;)
+Today we gonna change some changes here :)
++ @@@@@@ .::. @@@@@
++ ****** .::. *****
++ +++++ .::. +++++
++ -----------------
