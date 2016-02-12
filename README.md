@@ -2,7 +2,7 @@
 GitHub Tutorial: Learning by doing :)
 Hi!
 
-My name is Adeel Alam. Currently, I am working as IT Consultant with Framtiden in Stockholm.
+I am here to give introductory lecture about GITHUB to my team. 
 
 
 Hi agian!
