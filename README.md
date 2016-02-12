@@ -12,3 +12,8 @@ Today we gonna change some changes here :)
 + ****** .::. *****
 + +++++ .::. +++++
 + -----------------
+
+Hi!
+
+we are adding emoji this time here..
+:100:
